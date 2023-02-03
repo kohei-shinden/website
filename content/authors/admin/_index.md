@@ -9,9 +9,6 @@ interests:
   - Recommender Systems
   - On-Device Machine Learning
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/KoheiShinden
