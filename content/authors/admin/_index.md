@@ -31,8 +31,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Tsukuba
+    url: https://www.tsukuba.ac.jp/en/
 education:
   courses:
     - course: M.S. in Informatics
