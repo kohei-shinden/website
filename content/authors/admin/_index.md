@@ -1,7 +1,7 @@
 ---
 title: Kohei Shinden
 role: Master's Student
-avatar_filename: kohei-shinden_256.jpg
+avatar_filename: ""
 bio: My research interests include information retrieval, recommender systems,
   and on-device machine learning.
 interests:
@@ -27,9 +27,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/koheishinden
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
 organizations:
   - name: University of Tsukuba
     url: https://www.tsukuba.ac.jp/en/
