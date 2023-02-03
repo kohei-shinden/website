@@ -1,7 +1,7 @@
 ---
 title: Kohei Shinden
 role: Master's Student
-avatar_filename: kohei-shinden.jpg
+avatar_filename: kohei-shinden_256.jpg
 bio: My research interests include information retrieval, recommender systems,
   and on-device machine learning.
 interests:
