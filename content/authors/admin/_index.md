@@ -26,7 +26,7 @@ social:
     link: https://github.com/kohei-shinden
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/koheishinden
+    link: https://www.linkedin.com/in/koheishinden
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -35,14 +35,16 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: M.S. in Informatics
+      institution: Graduate School of Comprehensive Human Sciences, University of Tsukuba
+      year: 2024
+    - course: B.A. in Library and Information Science
+      institution: Knowledge Information Systems Course, College of Knowledge and
+        Library Sciences, School of Informatics, University of Tsukuba
+      year: 2021
+    - course: A. S. in Engineering
+      institution: Information and Control Systems Course, Classes for Engineering,
+        Kindai University Technical College.
       year: 2008
 superuser: true
 status:
