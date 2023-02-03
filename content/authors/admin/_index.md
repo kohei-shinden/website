@@ -2,8 +2,7 @@
 title: Kohei Shinden
 role: Master's Student
 avatar_filename: "avater.jpg"
-bio: My research interests include information retrieval, recommender systems,
-  and on-device machine learning.
+bio: My research interests include information retrieval, recommender systems, and on-device machine learning.
 interests:
   - Information Retrieval
   - Recommender Systems
@@ -15,6 +14,9 @@ social:
     label: Follow me on Twitter
     display:
       header: true
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/kohei.shinden
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.jp/citations?user=X19KrWgAAAAJ&hl=ja&authuser=1
@@ -36,16 +38,16 @@ education:
       institution: Knowledge Information Systems Course, College of Knowledge and
         Library Sciences, School of Informatics, University of Tsukuba
       year: 2021
-    - course: A. S. in Engineering
+    - course: A.S. in Engineering
       institution: Information and Control Systems Course, Classes for Engineering,
         Kindai University Technical College.
       year: 2008
 superuser: true
 status:
-  icon: ☕️
-last_name: Wu
+  icon: 
+last_name: Kohei
 highlight_name: true
-first_name: Alice
+first_name: Shinden
 email: kohei.shinden@gmail.com
 ---
 Kohei Shinden is a master's student in the Graduate School of Comprehensive Human Sciences, University of Tsukuba. His research interests include information retrieval, recommender systems, and on-device machine learning.
