@@ -5,10 +5,18 @@
 # Default language
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  title: Kohei Shinden
+  params:
+    description: Kohei Shinden's portfolio website
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
+ja:
+  languageCode: ja
+  contentDir: content/ja
+  title: 新田洸平
+  params:
+    description: 新田洸平のポートフォリオサイト
 #zh:
 #  languageCode: zh-Hans
 #  contentDir: content/zh
